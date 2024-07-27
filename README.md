@@ -5,7 +5,6 @@ Welcome to the Quiz Application! This command-line quiz application written in J
 ## Features
 
 - Multiple types of questions (e.g., single choice, multiple choice).
-- Ability to handle multiple quizzes.
 - Score tracking.
 
 ## Getting Started
